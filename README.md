@@ -1,4 +1,2 @@
 # fourFunctions
-```
-npm install
-```
+
